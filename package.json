@@ -1,0 +1,19 @@
+{
+  "name": "webproject",
+  "version": "1.0.0",
+  "main": "timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varun7703/web_programming_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varun7703/web_programming_project/issues"
+  },
+  "homepage": "https://github.com/varun7703/web_programming_project#readme",
+  "description": ""
+}
